@@ -44,3 +44,9 @@ for (int i = 0; i < size; i++)
 	    }
 	}
 ```
+
+Выполняем код. Выводим полученное содержимое массива на экран:
+```
+	Console.WriteLine();
+	PrintArray(arrayResult);
+```
